@@ -1,1 +1,1 @@
-https://api.ofcapp.com:110/
+https://api.ofcapp.com/
